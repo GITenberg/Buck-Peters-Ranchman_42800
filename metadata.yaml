@@ -1,0 +1,51 @@
+_repo: Buck-Peters-Ranchman_42800
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Maynard
+    aliases:
+    - Dixon, Lafayette Maynard
+    - Dixon, L. Maynard
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '34054'
+    url: http://www.gutenberg.org/2009/agents/34054
+covers:
+- cover_type: archival
+  image_path: 42800-rst/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Mulford, Clarence Edward
+    alias: Mulford, Clarence E.
+    birthdate: 1883
+    deathdate: 1956
+    gutenberg_agent_id: '962'
+    url: http://www.gutenberg.org/2009/agents/962
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
+  - agent_name: Clay, John Wood
+    gutenberg_agent_id: '41866'
+    url: http://www.gutenberg.org/2009/agents/41866
+description: When Buck Peters went to Montana to start a new ranch, he found his partner
+  dead, his cowhands being slaughtered like steers; himself shot full of holes, and
+  a neighbor stealing his stock. All that could only mean one thing - a range war
+  was imminent. Only Hopalong Cassidy could help Buck now - but he was in Texas with
+  a new bride and a ranch to run. Hoppy had no choice. He was Buck's last hope. He
+  had to come.
+gutenberg_issued: '2013-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42800'
+  lccn: '12007625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Cassidy, Hopalong (Fictitious character) -- Fiction'
+title: "Buck Peters, Ranchman\r\nBeing the Story of What Happened When Buck Peters,\
+  \ Hopalong Cassidy, and Their Bar-20 Associates Went to Montana"
+url: http://www.gutenberg.org/ebooks/42800
